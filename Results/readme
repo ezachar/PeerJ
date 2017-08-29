@@ -1,0 +1,1 @@
+In this folder the results of 5-fold cross-validation will be stored. If you run the DEMO.m a folder 'fold1' will be here created with the results of the first fold. You can continue evaluating the method for the rest of the folds if you want.
