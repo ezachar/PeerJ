@@ -1,0 +1,13 @@
+
+1) Download the whole PeerJ folder. Don't delete the subfolder 'Data' and 'Results'.
+
+2) Install MatConvNet 
+   http://www.vlfeat.org/matconvnet/
+
+3) Install libSVM
+   https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+
+4) Enter the folder 'Code' and run the DEMO.m in MATLAB.
+The DEMO runs on a very small dataset (20 proteins perc class) with CNN options such that the computational cost is minimal. It is meant only for demonstration of proof of concept. Results and achieved accuracies should be ignored.
+
+----------------------------------------------------------
